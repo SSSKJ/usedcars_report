@@ -47,6 +47,16 @@ Process the raw data. If you don't have the file user-car.csv, please download t
 
 Train random forest model with user-car.csv. If you don't have the file simplerModel.RData, please run this script first to generate a model for the App.
 
+## Environmental Requirement
+
+
+
+## How to Run
+
+Run ./server.R with R studio
+
+
+
 
 ## **Functions Introduction**
 
