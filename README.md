@@ -2,6 +2,8 @@
 
 ## **Description**
 
+![image-20220921101043859](pic/image-20220921101043859.png)
+
 [Rshiny App for Used Car](https://skjguan.shinyapps.io/project/) aims to build a R shinyApp for users to get information about used cars. The mainly objectives are to show the used car sale condition of different brands, to show the used car sale condition in different price range and to predict the price of a used car.The data is based on the dataset from kaggle called ["Used cars database"](https://www.kaggle.com/orgesleka/used-cars-database/kernels). The dataset contains over 370,000 used cars scraped from Ebay Kleinanzeigen in 2016. 
 
 ## **File Structure**
